@@ -8,7 +8,7 @@ C++ SFML로 지뢰찾기 구현
 ## 실행동영상  
 <br><br>
 ![image](https://user-images.githubusercontent.com/35206992/103234323-bf5c3780-4982-11eb-8790-4bb239834be1.png)  
-- https://user-images.githubusercontent.com/35206992/103233716-1d881b00-4981-11eb-9c43-0346ef076556.mp4
+- (2배속) https://user-images.githubusercontent.com/35206992/103233716-1d881b00-4981-11eb-9c43-0346ef076556.mp4
 1. flag만으로 지뢰찾기  
 2. 지뢰 캐내서 지뢰찾기  
 3. 지뢰 밟아서 끝내기  
